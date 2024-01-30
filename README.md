@@ -1,5 +1,5 @@
 # PowerBI-CallCenter-Dashboard
-## Power BI Call Center KPIs Dashboard
+
 
 ### Overview:
 This repository hosts a Power BI dashboard focused on key performance indicators (KPIs) for a call center. The dashboard provides comprehensive insights into call center operations, emphasizing the following metrics:
