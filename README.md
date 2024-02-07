@@ -9,4 +9,3 @@ This repository hosts a Power BI dashboard focused on key performance indicators
 - Real-time data updates for dynamic monitoring.
 - Customized charts and cards to highlight key metrics.
 - User-friendly interface for easy navigation.
-
